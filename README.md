@@ -1,6 +1,6 @@
 # Hi there, I am Shivani 👋
 
-**Data Analyst | Data Science Enthusiast**
+**Business and Product Growth Enthusiast**
 
 ##**About Me** :
 *I am a data enthusiast passionate about transforming raw data into actionable insights and currently seeking a full-time opportunity in data analytics/data science field. Always exploring data-driven solutions for new projects and open to collaboration!*
